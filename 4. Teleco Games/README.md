@@ -7,7 +7,10 @@ Los grupos son los siguientes:
 
 | Nombre del equipo | Integrantes |
 | --- | --- |
-| ``Error 404-Cerebro no encontrado`` | Lorenzo Manuel Latorre Martínez, Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda |
+| ``Error 404-Cerebro no encontrado`` | Lorenzo Manuel Latorre Martínez, Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda 
+
+
+
 | ``Los Hacker-Crustáceos`` | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López |
 
 ## 1ª parte del proyecto: Desarrollo individual de una idea inicial
@@ -16,7 +19,7 @@ En esta primera parte del proyecto, vamos a seguir los pasos del primero. Primer
 
 En mi ocasión, he utilizado la IA de Google, Gemini, para que me aporte una lluvia de ideas con la que poder comenzar. Me ha comentado varias opciones, tales como una papelera inteligente, que detecte cuando está llena o vacía y te avisa por una nontificación en el teléfono o un chat bot en la app Telegram; también un sistema de riego, utilizando bombas de agua con temporizador controladas por una placa bien sea Arduino, ESP32, Raspberry Pi y demás; y por la que finalmente me he decantado como inicio, una caseta inteligente para pájaros, pricipalmente.
 
-### Desarrollo de la idea
+### Desarrollo de la idea- NIDOTEC (Nido Inteligente para el Desarrollo y la Observación Tecnológica de Ecosistemas y Conservación)
 Ahora que he mencionado mi idea paso a desarrollarlla. Los principales elementos que utilizaríamos serían los siguientes (los cuales explicaré cada uno): placa ESP32 o Arduino (preferiblemente ESP32 ya que cuenta con módulo Wi-FI y Bluetooth, crucial para el requisito de telecomunicaciones), servomotor, bomba de agua, impresora 3D, cortadora láser, placa solar en miniatura para la alimentación de componentes y placa, módulo de gestión de la carga de las placas solares y pilas para almacenar esa carga, sensor de ultrasonidos, sensor de infrarrojos, sensor de humedad, sensor de temperatura, contrachapado de madera y cables, además de un ordenador para diseñar y programar el código que vayamos a utilizar.
 
 Lo primero que habría que hacer es pensar en qué zonas colocar estas casetas. Lo que he pensado, y lo que más lógica tiene, sería en la entrada de nuestro instituto, ya que colocarlo en parques dificultaría mucho el tema de la alimentación de los componentes, además del montaje de la misma caseta. La idea es montar la caseta con contrachapado de madera utilizando la cortadora láser, y posteriormente las cubiertas para los componentes eletrónicos (principalmente para que los pájaros que se encuentren dentro no puedan romper los componentes) imprimirlas en 3D, de las cuales ya se estudiaría el material con el que se imprimiría. 
