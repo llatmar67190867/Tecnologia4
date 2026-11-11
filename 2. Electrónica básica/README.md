@@ -19,9 +19,9 @@ Resistencia RED-RED-BROWN-GOLD: 220 ohmios. Tolerancia ±5%
 
 ## Diodos
 
-Calcular el voltaje de la fuente de alimentación necesario paa hacer funcionar a un diodo LED azul, sabiendo que el diodo led está protegido por una resistencia de 220 ohmios y sabiendo que hay una intensidad de 0,02 A.
+Calcular el voltaje de la fuente de alimentación necesario para hacer funcionar a un diodo LED azul, sabiendo que el diodo LED está protegido por una resistencia de 220 ohmios y sabiendo que hay una intensidad de 0'02 A.
 
-Resistencia=(Voltaje<sub>fuente</sub>-Voltaje<sub>LED</sub>)/Intensidad<sub>LED</sub>
+Resistencia=(Voltaje<sub>fuente</sub>-Voltaje<sub>LED</sub>)/Intensidad<sub>LED</sub> ---> 220Ω=(V<sub>fuente</sub>-4'6V)/0'02A ---> 220Ω*0'02A+4'6V=V<sub>fuente</sub> ---> 9=V<sub>fuente</sub>
 
 ## LED
 
