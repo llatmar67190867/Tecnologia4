@@ -21,6 +21,7 @@ Patilla izquierda=240k
 " derecha= 103k
 
 ### LDR
+
 830 ohmios con luz ambiental
 3450 ohmios con luz tapada
 
@@ -29,6 +30,11 @@ Patilla izquierda=240k
 ### PTC
 
 ## Condensadores
+
+Medición de tiempo de apagado del LED: 7,12";7,13";7,08";7,58";7,34";7,46"- Media total: 7,29"
+
+MYl8VByhM8A
+[![](https://img.youtube.com/vi/MYl8VByhM8A/0.jpg)](https://www.youtube.com/watch?v=MYl8VByhM8A)
 
 ## Diodos
 
