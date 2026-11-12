@@ -15,6 +15,19 @@ Resistencia RED-RED-BROWN-GOLD: 220 ohmios. Tolerancia ±5%
 
 ## Resistencias variables (Potenciómetro, NTC, PTC, y LDR)
 
+### Potenciómetro
+Valor total del potenciómetro=435k
+Patilla izquierda=240k 
+" derecha= 103k
+
+### LDR
+830 ohmios con luz ambiental
+3450 ohmios con luz tapada
+
+### NTC
+
+### PTC
+
 ## Condensadores
 
 ## Diodos
