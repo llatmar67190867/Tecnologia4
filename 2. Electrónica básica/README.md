@@ -22,8 +22,8 @@ Patilla izquierda=240k
 
 ### LDR
 
-830 ohmios con luz ambiental
-3450 ohmios con luz tapada
+830 Ω con luz ambiental
+3450 Ω con luz tapada
 
 ### NTC
 
@@ -38,11 +38,13 @@ Medición de tiempo de apagado del LED: 7,12";7,13";7,08";7,58";7,34";7,46"- Med
 
 ## Diodos
 
-Calcular el voltaje de la fuente de alimentación necesario para hacer funcionar a un diodo LED azul, sabiendo que el diodo LED está protegido por una resistencia de 220 ohmios y sabiendo que hay una intensidad de 0'02 A.
+Antonio nos propuso la siguiente cuestión. Trataba de lo siguiente: Calcular el voltaje de la fuente de alimentación necesario para hacer funcionar un diodo LED azul, sabiendo que el diodo LED está protegido por una resistencia, teniendo en cuenta también la intensidad del LED. Cada un tiene sus valores, que nos dio Antonio a cada uno al azar. Debajo podemos ver el ejercicio propuesto con la fórmula a seguir. Lo único que debemos hacer es sustituir los valores que nos otorgó Antonio a cada uno. Mis valores fueron los siguientes: 
 
+·LED de color azul con una intensidad de 0'02 A y un consumo de voltaje de 4'6 V. 
+·Resistencia de 4 bandas: Rojo-Rojo-Marrón-Dorado. Esto equivale a 220 Ω, con una tolerancia de ±5%.
+
+Ahora, debemos averiguar el voltaje que le debemos proporcionar al LED desde la fuente de alimentación, teniendo en cuenta los valores anteriores. 
 Resistencia=(Voltaje<sub>fuente</sub>-Voltaje<sub>LED</sub>)/Intensidad<sub>LED</sub> ⟶ 220Ω=(V<sub>fuente</sub>-4'6V)/0'02A ⟶ 220Ω*0'02A+4'6V=V<sub>fuente</sub> ⟶ 9=V<sub>fuente</sub>
-
-## LED
 
 ## Transistores
 
