@@ -36,7 +36,13 @@ Medición de tiempo de apagado del LED: 7,12";7,13";7,08";7,58";7,34";7,46"- Med
 
 [![](https://img.youtube.com/vi/MYl8VByhM8A/0.jpg)](https://www.youtube.com/watch?v=MYl8VByhM8A)
 
-## Diodos
+## Diodos (Normal, Zener y LED)
+
+### Diodo normal
+
+### Diodo Zener
+
+### Diodo LED
 
 Antonio nos propuso la siguiente cuestión. Trataba de lo siguiente: Calcular el voltaje de la fuente de alimentación necesario para hacer funcionar un diodo LED azul, sabiendo que el diodo LED está protegido por una resistencia, teniendo en cuenta también la intensidad del LED. Cada un tiene sus valores, que nos dio Antonio a cada uno al azar. Debajo podemos ver el ejercicio propuesto con la fórmula a seguir. Lo único que debemos hacer es sustituir los valores que nos otorgó Antonio a cada uno. Mis valores fueron los siguientes: 
 
