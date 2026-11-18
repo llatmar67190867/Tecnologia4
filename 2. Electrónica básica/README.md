@@ -54,5 +54,6 @@ Resistencia=(Voltaje<sub>fuente</sub>-Voltaje<sub>LED</sub>)/Intensidad<sub>LED<
 
 ## Transistores
 
+NPN Código CBC 548 C. 38 veces máas
 ## Relés
 
