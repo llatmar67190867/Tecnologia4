@@ -35,7 +35,7 @@ Un condensador es un componente electrónico pasivo con dos terminales que almac
 Al aplicarle un voltaje, las cargas eléctricas se acumulan en las placas. Este no es como la batería, no almacena la energía con procesos químicos, sino de manera electroestática. Esto le permite cargar y descargar la energía de forma rápida. Su capacidad de guardar la carga eléctrica se mide en Faradios (F). Normalmente, no se suelen medir en así, se suelen medir en microfaradios (µF) o milifaradios (mF). Aquí podemos observar una imagen sobre el condensador: 
 
 <p align="center">
-<img src="Imágenes/CONDENSADOR.png" width="300" height="400" />
+<img src="Imágenes/CONDENSADOR.jpg" width="300" height="400" />
 </p>
 
 Medición de tiempo de apagado del LED: 7,12";7,13";7,08";7,58";7,34";7,46"- Media total: 7,29" 
