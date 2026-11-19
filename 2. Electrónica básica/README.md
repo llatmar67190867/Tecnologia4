@@ -30,8 +30,15 @@ Patilla izquierda=240k
 ### PTC
 
 ## Condensadores
+Un condensador es un componente electrónico pasivo con dos terminales que almacena energía de forma temporal en un campo eléctrico. Existen dos tipos de condensadores según sus terminales. Unos tienen polaridad, es decir que tienes que conectar un terminal al positivo y otro al negativo, y no se puede cambiar. Y los otros no tienen polaridad, es decir, da igual donde conectes el positivo y negativo, no interfiere. Por dentro, están compuestos de dos tiras de aluminio, y entre estos hay una tira de papel o cerámica que actúa como aislante. 
 
-Medición de tiempo de apagado del LED: 7,12";7,13";7,08";7,58";7,34";7,46"- Media total: 7,29"
+Al aplicarle un voltaje, las cargas eléctricas se acumulan en las placas. Este no es como la batería, no almacena la energía con procesos químicos, sino de manera electroestática. Esto le permite cargar y descargar la energía de forma rápida. Su capacidad de guardar la carga eléctrica se mide en Faradios (F). Normalmente, no se suelen medir en así, se suelen medir en microfaradios (µF) o milifaradios (mF). Aquí podemos observar una imagen sobre el condensador: 
+
+<p align="center">
+<img src="Imágenes/CONDENSADOR.png" width="300" height="400" />
+</p>
+
+Medición de tiempo de apagado del LED: 7,12";7,13";7,08";7,58";7,34";7,46"- Media total: 7,29" 
 
 
 [![](https://img.youtube.com/vi/MYl8VByhM8A/0.jpg)](https://www.youtube.com/watch?v=MYl8VByhM8A)
@@ -54,6 +61,6 @@ Resistencia=(Voltaje<sub>fuente</sub>-Voltaje<sub>LED</sub>)/Intensidad<sub>LED<
 
 ## Transistores
 
-NPN Código CBC 548 C. 38 veces máas
+Distribución NPN (No penetra) Código CBC 548 C. 38 veces más.
 ## Relés
 
