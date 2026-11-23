@@ -18,7 +18,17 @@ Al contrario que otros componentes, estas no tienen polaridad, esto quiere decir
 <img src="Imágenes/CÓDIGOS DE COLOR RESISTENCIAS.png" width="500" height="500" />
 </p>
 
-Resistencia RED-RED-BROWN-GOLD: 220 ohmios. Tolerancia ±5%
+Las resistencias fijas suelen tener 4 bandas, pero hay algunas que tienen 5. Estas bandas, como podemos observar en la imagen, sirven para indicar el valor de la resistencia:
+
+·1ª banda: Cifra de valor
+
+·2ª banda: Cifra de valor
+
+·3ª banda: Multiplicador de cifras según el color (se añaden tantos ceros como indique el color). En el caso de que se trate de una resistencia de 5 bandas, esta 3ª banda se utilizaría también como cifra de valor.
+
+·4ª banda: Indica la tolerancia (error que puede cometer el valor de la resistencia en cuanto al valor supuesto). En el caso de que se trate de una resistencia de 5 bandas, esta 4ª banda se utilizaría como multiplicador.
+
+·5ª banda (en el caso de que exista una quinta banda): Indica la tolerancia.
 
 ## Resistencias variables (Potenciómetro, NTC, PTC, y LDR)
 
