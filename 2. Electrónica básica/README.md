@@ -14,6 +14,10 @@ Las resistencias fijas son un componente electrónico y su función principal es
 
 Al contrario que otros componentes, estas no tienen polaridad, esto quiere decir que da igual en que sentido pongas sus dos patillas que tiene, puedes conectarlas al positivo y negativo o al revés. Su unidad de medida son los ohmios (Ω), que miden la cantidad de resistencia, como su nombre indica, que se opone a la corriente. Podemos identificar cuantos ohmios tiene según las bandas de color que he mencionado antes. Según el color, obtienen un valor u otro. Para eso, podemos fijarnos en una tabla de referencia con la que identificamos los valores fácilmente, con los distintos códigos de color y la tolerancia, que explicaré ahora. Podemos ver una imagen justo debajo:
 
+<p align="center">
+<img src="Imágenes/CÓDIGOS DE COLOR RESISTENCIAS.png" width="500" height="500" />
+</p>
+
 Resistencia RED-RED-BROWN-GOLD: 220 ohmios. Tolerancia ±5%
 
 ## Resistencias variables (Potenciómetro, NTC, PTC, y LDR)
