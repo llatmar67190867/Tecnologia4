@@ -30,6 +30,10 @@ Las resistencias fijas suelen tener 4 bandas, pero hay algunas que tienen 5. Est
 
 **·5ª banda (en el caso de que exista una quinta banda): Indica la tolerancia.**
 
+Después de toda la explicación que nos dio Antonio, nos dio una resistencia a cada uno y nos dijo que averiguáramos el valor de esta, y comprobáramos si su tolerancia se cumplía. En mi caso, me tocó una resistencia con las siguientes bandas de color: ROJO-ROJO-MARRÓN-DORADO. Siguiendo el código de colores, tenemos que la primera banda roja (valor significativo) corresponde al número 2; la segunda banda, roja también (valor significativo), toma el número 2 al igual que la otra; la tercera banda, de color marrón, indica el número de ceros que tenemos que incluir al valor, siendo marrón incluye solo uno; por último, la cuarta banda indica la tolerancia, que en este caso es dorada, con una tolerancia del ±5%. 
+
+El supuesto valor de la resistencia era de 220Ω, pero cuando medí sus valores con el polímetro me dio 218Ω. Si comprobamos la tolerancia de la resistencia, que debemos de seguir el proceso matemático siguiente: 5% de X= (X*5)/100. Este valor es el error que se puede cometer en cuanto al valor total de la resistencia.
+
 ## Resistencias variables (Potenciómetro, NTC, PTC, y LDR)
 
 ### Potenciómetro
